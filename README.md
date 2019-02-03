@@ -128,8 +128,7 @@ This project is authored by **Muhammad Bilal Sadiq** (bilal9978@gmail.com) and i
 <!-- Definitions -->
 [license]: LICENSE
 [author]: Muhammad Bilal Sadiq
-### FAQs
-For more details contact nosisky@gmail.com
+
 
 ### Support or New Features
 Having new features you feel I can add to HelloBooks? Kindly contact as above, I'll look into it. Thanks.
